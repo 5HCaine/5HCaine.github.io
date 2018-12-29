@@ -1,6 +1,40 @@
 {
+  "squadName" : "Super hero squad",
   "homeTown" : "流行音乐是根据英语Popular Music翻译过来的。流行音乐准确的概念应为商品音乐，是指以盈利为主要目的而创作的音乐。它是商业性的音乐消遣娱乐以及与此相关的一切“工业”现象。（见前苏联《音乐百科词典》1990年版）它的市场性是主要的，艺术性是次要的。流行音乐19世纪末20世纪初起源于美国，从音乐体系看，流行音乐是在叮砰巷歌曲、布鲁斯、爵士乐、摇滚乐、索尔音乐等美国大众音乐架构基础上发展起来的音乐。其风格多样，形态丰富，可泛指Jazz、Rock、Soul、Blues、Reggae、Rap、Hip-Hop、Disco、New Age等20世纪后诞生的都市化大众音乐。",
   "formed" : "摇滚乐，英文全称为Rock and Roll，兴起于20世纪50年代中期，主要受到节奏布鲁斯、乡村音乐和叮砰巷音乐的影响发展而来。早期摇滚乐很多都是黑人节奏布鲁斯的翻唱版，因而节奏布鲁斯是其主要根基。摇滚乐分支众多，形态复杂，主要风格有：民谣摇滚、艺术摇滚、迷幻摇滚、乡村摇滚、重金属、朋克等，代表人物有：埃尔维斯·普莱斯利（猫王）、鲍勃·迪伦、披头士乐队、滚石乐队等，是20世纪美国大众音乐走向成熟的重要标志。中国摇滚乐兴起于80年代初，1986年崔健以一首《一无所有》喊出了中国摇滚第一声。90年代中期为中国摇滚的高峰期。",
   "secretBase" : "蓝调（Blues）为爵士、摇滚及福音歌曲（Gospel）的老祖宗，原本只是美国早期黑奴抒发心情时所吟唱的12小节曲式，演唱或演奏时大量蓝调音（Blue Notes）的应用，使得音乐上充满了压抑及不和谐的感觉，这种音乐听起来十分忧郁(Blue)。但就是这么一股〝反骨〞气息，使得它后来在叛逆的摇滚乐中发扬光大。蓝调以歌曲直接陈述内心想法的表现方式，与当时白人社会的音乐截然不同。音乐主体以I、IV、V级和弦的方式，以最常使用的12小节方式进行，也有8和16小节形式，而它的音阶是采用降第三音和降第七音以模仿西方音阶。早期的乐手是使用提琴或班乔琴(Banjo)来演奏，还有一些乐手，更以Slide的方式使音符走调，让吉他发出像人声哭泣的声音，藉以抒发自己的情绪，这就是蓝调。",
-  "active" : true,
+  "members" : [
+    {
+      "name" : "Molecule Man",
+      "age" : 29,
+      "secretIdentity" : "Dan Jukes",
+      "powers" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name" : "Madame Uppercut",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
 }
