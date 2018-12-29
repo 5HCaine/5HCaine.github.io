@@ -4,16 +4,6 @@
   "blues" : "蓝调（Blues）为爵士、摇滚及福音歌曲（Gospel）的老祖宗，原本只是美国早期黑奴抒发心情时所吟唱的12小节曲式，演唱或演奏时大量蓝调音（Blue Notes）的应用，使得音乐上充满了压抑及不和谐的感觉，这种音乐听起来十分忧郁(Blue)。但就是这么一股〝反骨〞气息，使得它后来在叛逆的摇滚乐中发扬光大。蓝调以歌曲直接陈述内心想法的表现方式，与当时白人社会的音乐截然不同。音乐主体以I、IV、V级和弦的方式，以最常使用的12小节方式进行，也有8和16小节形式，而它的音阶是采用降第三音和降第七音以模仿西方音阶。早期的乐手是使用提琴或班乔琴(Banjo)来演奏，还有一些乐手，更以Slide的方式使音符走调，让吉他发出像人声哭泣的声音，藉以抒发自己的情绪，这就是蓝调。",
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
-    },
-    {
       "name" : "Madame Uppercut",
       "age" : 39,
       "secretIdentity" : "Jane Wilson",
