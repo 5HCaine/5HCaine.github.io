@@ -1,6 +1,7 @@
 ﻿{
   "squadName" : "Super hero squad",
-  "homeTown" : "musictypes",
+  "homeTown" : "流行音乐是根据英语Popular Music翻译过来的。流行音乐准确的概念应为商品音乐，是指以盈利为主要目的而创作的音乐。它是商业性的音乐消遣娱乐以及与此相关的一切“工业”现象。（见前苏联《音乐百科词典》1990年版）它的市场性是主要的，艺术性是次要的。
+       流行音乐19世纪末20世纪初起源于美国，从音乐体系看，流行音乐是在叮砰巷歌曲、布鲁斯、爵士乐、摇滚乐、索尔音乐等美国大众音乐架构基础上发展起来的音乐。其风格多样，形态丰富，可泛指Jazz、Rock、Soul、Blues、Reggae、Rap、Hip-Hop、Disco、New Age等20世纪后诞生的都市化大众音乐。",
   "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
